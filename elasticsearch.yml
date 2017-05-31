@@ -1,0 +1,2 @@
+# FIX MEMORY LEAK
+ transport.netty.receive_predictor_size: 64kb
